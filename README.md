@@ -11,6 +11,8 @@ A very minimal javascript platform game
 Just a sinple example of how to have a tiny rectangle run around some rectangle platforms, 
 collecting rectangular gold and avoiding rectangular monsters.
 
+To start the server run 'npm install http-server -g' and then 'http-server . -p PORT_NUMBER'
+
 SUPPORTED BROWSERS
 ==================
 
